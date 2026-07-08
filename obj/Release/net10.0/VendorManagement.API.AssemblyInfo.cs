@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VendorManagement.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+183332f0c8d8a39e65e1f81ba88c383569f9b4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("VendorManagement.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VendorManagement.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
